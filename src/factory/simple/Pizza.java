@@ -40,4 +40,3 @@ abstract public class Pizza {
 		return display.toString();
 	}
 }
-
